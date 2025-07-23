@@ -1,78 +1,110 @@
 <!DOCTYPE html>
-<html lang="ar">
+<html lang="ar" dir="rtl">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>سياسة الخصوصية | Memory Power</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
-      margin: 2rem;
-      line-height: 1.6;
-      color: #333;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      margin: 3rem auto;
+      max-width: 800px;
+      line-height: 1.75;
+      color: #2c3e50;
+      background: #f9f9f9;
+      padding: 1rem 2rem;
+      box-sizing: border-box;
     }
     h1, h2 {
       color: #00695c;
+      margin-bottom: 0.6rem;
+    }
+    h1 {
+      border-bottom: 2px solid #00695c;
+      padding-bottom: 0.5rem;
+      margin-top: 2rem;
+    }
+    p {
+      margin-bottom: 1.2rem;
+      font-size: 1.05rem;
+    }
+    ul {
+      margin-bottom: 1.5rem;
+      padding-inline-start: 1.4rem;
+      font-size: 1.05rem;
+    }
+    ul li {
+      margin-bottom: 0.5rem;
+    }
+    a {
+      color: #00695c;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    a:hover {
+      text-decoration: underline;
     }
     hr {
-      margin: 2rem 0;
+      margin: 3rem 0;
+      border: none;
+      border-top: 1px solid #ccc;
     }
   </style>
 </head>
 <body>
 
   <h1>سياسة الخصوصية لتطبيق Memory Power</h1>
-  <p>مرحبًا بك في تطبيق <strong>Memory Power</strong>. نحن نهتم بخصوصيتك ونلتزم بعدم جمع أي معلومات شخصية أو حساسة من المستخدمين.</p>
+  <p>مرحبًا بك في تطبيق <strong>Memory Power</strong>. نحن نولي خصوصيتك أهمية كبيرة ونلتزم بعدم جمع أي معلومات شخصية أو حساسة من المستخدمين.</p>
 
   <h2>1. الإعلانات</h2>
-  <p>يتم عرض الإعلانات داخل اللعبة باستخدام شبكات مثل <strong>Unity Ads</strong> و<strong>AppLovin MAX</strong>. قد تستخدم هذه الشبكات معرفات مجهولة لعرض إعلانات مخصصة أو عامة حسب إعدادات جهازك.</p>
+  <p>يتم عرض الإعلانات داخل اللعبة باستخدام شبكات مثل <strong>Unity Ads</strong> و<strong>AppLovin MAX</strong>. قد تستخدم هذه الشبكات معرفات مجهولة المصدر لعرض إعلانات مخصصة أو عامة وفقًا لإعدادات جهازك.</p>
 
   <h2>2. المعلومات التي لا نقوم بجمعها</h2>
   <ul>
     <li>لا نقوم بجمع أو تخزين أي بيانات شخصية.</li>
-    <li>لا يتم تتبع سلوك المستخدم.</li>
-    <li>لا نقوم بجمع معلومات عن الجهاز أو تحديد الهوية.</li>
+    <li>لا يتم تتبع سلوك المستخدم بأي شكل.</li>
+    <li>لا نجمع معلومات خاصة بالجهاز أو تحديد الهوية.</li>
   </ul>
 
   <h2>3. موافقة المستخدم (GDPR)</h2>
-  <p>إذا كنت في منطقة الاتحاد الأوروبي أو المملكة المتحدة، فقد تظهر لك نافذة تطلب الإذن لعرض الإعلانات المخصصة أو العامة حسب قوانين <strong>اللائحة العامة لحماية البيانات (GDPR)</strong>.</p>
+  <p>إذا كنت في منطقة الاتحاد الأوروبي أو المملكة المتحدة، قد تظهر نافذة تطلب الإذن لعرض إعلانات مخصصة أو عامة وفقًا لقوانين <strong>اللائحة العامة لحماية البيانات (GDPR)</strong>.</p>
 
   <h2>4. الأمان والروابط الخارجية</h2>
   <p>لا يحتوي التطبيق على روابط خارجية. جميع الإعلانات تبقى داخل اللعبة ولا تؤدي إلى تتبع خارجي.</p>
 
   <h2>5. التعديلات على السياسة</h2>
-  <p>قد نقوم بتحديث سياسة الخصوصية عند الحاجة. سيتم إشعارك داخل التطبيق في حال وجود تغييرات جوهرية.</p>
+  <p>قد يتم تحديث سياسة الخصوصية من حين لآخر عند الحاجة، وسيتم إعلامك داخل التطبيق في حال وجود تغييرات مهمة.</p>
 
   <h2>6. التواصل معنا</h2>
-  <p>للاستفسارات، راسلنا على البريد التالي:<br/>
+  <p>إذا كان لديك أي استفسارات، يمكنك التواصل معنا عبر البريد الإلكتروني التالي:<br/>
   📧 <a href="mailto:Abdulaziz.h1407@gmail.com">Abdulaziz.h1407@gmail.com</a></p>
 
   <hr>
 
   <h1>Privacy Policy for Memory Power</h1>
-  <p>Welcome to <strong>Memory Power</strong>. We value your privacy and are committed to not collecting any personal or sensitive data from users.</p>
+  <p>Welcome to <strong>Memory Power</strong>. Your privacy is important to us, and we are committed to not collecting any personal or sensitive information from users.</p>
 
   <h2>1. Ads</h2>
-  <p>This app displays in-game ads using ad networks like <strong>Unity Ads</strong> and <strong>AppLovin MAX</strong>. These networks may use anonymous identifiers to show personalized or general ads depending on your device settings.</p>
+  <p>This app displays in-game ads using networks such as <strong>Unity Ads</strong> and <strong>AppLovin MAX</strong>. These networks may use anonymous identifiers to deliver personalized or general ads based on your device settings.</p>
 
   <h2>2. What We Don’t Collect</h2>
   <ul>
     <li>No personal data is collected or stored.</li>
-    <li>No user tracking is performed.</li>
-    <li>No device-specific information is accessed.</li>
+    <li>No user behavior tracking is performed.</li>
+    <li>No device-specific or identifying information is gathered.</li>
   </ul>
 
   <h2>3. User Consent (GDPR)</h2>
-  <p>If you’re located in the European Union or UK, a consent form may appear according to <strong>GDPR regulations</strong>, allowing you to choose between personalized or general ads.</p>
+  <p>If you are located in the European Union or United Kingdom, you may be presented with a consent form to allow personalized or general ads in compliance with <strong>GDPR regulations</strong>.</p>
 
   <h2>4. Data Security & External Links</h2>
-  <p>This app does not include external links. All ads stay within the app and do not lead to third-party tracking.</p>
+  <p>This app contains no external links. All advertisements remain within the app and do not lead to third-party tracking.</p>
 
   <h2>5. Changes to This Policy</h2>
-  <p>This policy may be updated as needed. Significant changes will be shown in-app.</p>
+  <p>This policy may be updated periodically as necessary. Significant changes will be communicated within the app.</p>
 
   <h2>6. Contact Us</h2>
-  <p>If you have any questions or concerns, feel free to contact us:<br/>
+  <p>If you have any questions or concerns, please contact us at:<br/>
   📧 <a href="mailto:Abdulaziz.h1407@gmail.com">Abdulaziz.h1407@gmail.com</a></p>
 
 </body>
